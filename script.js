@@ -69,6 +69,5 @@ function restartGame() {
   });
 }
 
-// Event listeners
 [...board.children].forEach(cell => cell.addEventListener('click', handleCellClick));
 restartBtn.addEventListener('click', restartGame);
