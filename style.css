@@ -25,7 +25,7 @@ h1 {
   font-size: 2.2rem;
   font-weight: 600;
   letter-spacing: 3px;
-  color: #ffb300;
+  color: #21d07a;
   text-shadow: 1px 1px 8px #111a;
 }
 
@@ -48,7 +48,7 @@ h1 {
   border-radius: 12px;
   font-size: 2.5rem;
   font-weight: bold;
-  color: #ffc700;
+  color: #21d07a;
   cursor: pointer;
   user-select: none;
   transition: background 0.15s;
@@ -76,11 +76,11 @@ h1 {
   font-size: 1.2rem;
   margin-bottom: 10px;
   min-height: 28px;
-  color: #fde293;
+  color: #b7ffcb;
 }
 
 button#restart-btn {
-  background: #ffb300;
+  background: #21d07a;
   border: none;
   color: #232323;
   padding: 10px 26px;
@@ -93,5 +93,5 @@ button#restart-btn {
   letter-spacing: 1px;
 }
 button#restart-btn:hover {
-  background: #ffc92e;
+  background: #1ba666;
 }
